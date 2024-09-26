@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...
-- 😄 Pronouns: they/was
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
